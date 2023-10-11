@@ -1,6 +1,6 @@
 # Thingking
 Its some thinkings of fun project（Maybe useful，terrific，funny，or maybe stupid haha）  
-To record my minds,sometimes they will just appear in my brain then disappear quickly,so I gonna open this repository to memorize something .  
+To record my minds,sometimes they will just appear in my brain then disappear quickly,so I gonna create this repository to memorize something .  
 
 # 想法
 这是一些有时候会突然在我脑海中冒出的想法，可能有用，有趣，很棒，也可能很蠢  
